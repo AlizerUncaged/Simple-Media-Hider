@@ -78,12 +78,7 @@ You can customize the media extensions by adding an optional `extensions.json` f
 ]
 ```
 
-## ✨ Credits
-Developed by [Your Name](https://github.com/AlizerUncaged).
-
 ## 📄 License
 This project is licensed under the MIT License.
 
 ---
-
-Enjoy hiding your media files! 🎉 If you encounter any issues or have suggestions, feel free to open an issue on GitHub.
